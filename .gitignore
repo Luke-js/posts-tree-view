@@ -1,1 +1,8 @@
+.DS_Store
+
 simple-api/node_modules
+posts-app/node_modules
+/.vscode
+
+posts-app/build
+posts-app/coverage

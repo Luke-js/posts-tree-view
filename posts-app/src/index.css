@@ -1,0 +1,23 @@
+body {
+  margin: 2em;
+  background-color: whitesmoke;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.blue .text,
+.blue .dropdown.icon {
+  color: #0079d3;
+}
+
+.author {
+  color: rgba(0, 0, 0, 0.87);
+}
+
+.description {
+  font-size: 1em;
+  font-weight: normal;
+  color: darkgrey;
+}
